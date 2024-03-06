@@ -14,7 +14,7 @@ def print_nama_kel_Jatim(mantee):
 # Contoh list nama orang
 daftar_nama = ["Pangestu Sandya Etniko Siagian",
                "Galih Aulia Murdyahanjani",
-               "Name",
+               "Auditi Kurnia Wijayanti",
                "Name",
                "Name"]
 
